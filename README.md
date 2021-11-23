@@ -44,7 +44,7 @@
 
   <br/>
   <p align="left">
-    <a href="https://github.com/Manjeete/github-readme-stats"><img alt="Manjeet Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manjeete&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&width=100" /></a>
+    <a href="https://github.com/Manjeete/github-readme-stats"><img alt="Manjeet Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Manjeete&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="400" /></a>
     </p>
     <p align="right">
   <a href="https://github.com/Manjeete/github-readme-stats"><img alt="Manjeete Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjeete&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
