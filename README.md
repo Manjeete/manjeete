@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[OnCube](https://www.slayoncube.com/)**
+- 🔭 I’m currently working on **[IdeaUsher](https://ideausher.com/)**
 
 - 🌱 I’m currently learning **AWS.**
 
