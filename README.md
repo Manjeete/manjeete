@@ -2,18 +2,11 @@
 # Hi 👋, I’m Manjeet Kumar
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[IdeaUsher](https://ideausher.com/)**
-
-- 🌱 I’m currently learning **AWS.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
-
+- 🔭 A passionate Backend Developer & DevOps Engineer from India.
+- 🧑‍💻 I’m currently working at [Idea Usher](https://ideausher.com/) as a LEAD BACKEND DEVELOPER.
+- 📫 My Portfolio Link : [Manjeet Kumar](https://my-portfolio-0hzw.onrender.com/)
 - 📫 How to reach me **manjeetkr2017@gmail.com**
-
-<!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
-
+- 
 ## 🚀 Languages and Tools:
 
 <p align="left">
