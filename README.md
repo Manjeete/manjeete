@@ -21,7 +21,6 @@
 
 [![Manjeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manjeete&theme=react-dark)](https://github.com/manjeete/github-readme-activity-graph)
 
-
 <br/>
 <br/>
 
@@ -31,12 +30,12 @@
 <a href = "https://www.linkedin.com/in/manjeetkumar7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Manjeet_K7"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/manjeet_k7/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
 </p>
 
-<!-- ## ❤ Views and Followers
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manjeete&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=manjeete">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<a href="https://github.com/manjeete?tab=followers"><img src="https://img.shields.io/github/followers/manjeete?label=Followers&style=social" alt="GitHub Badge">
