@@ -33,8 +33,3 @@
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manjeete&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-### 🚀 After 2nd April 2023
-<a href="https://github.com/manjeete/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=manjeete">
-</a>
