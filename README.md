@@ -7,10 +7,6 @@
 - 📫 My Portfolio Link : [Manjeet Kumar](https://my-portfolio-0hzw.onrender.com/)
 - 📫 How to reach me **manjeetkr2017@gmail.com**
 
-![shravanmeena's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjeete&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjeete
-)](https://github.com/manjeete/github-readme-stats)
-
 ## 📊 My Github Stats
 
   <br/>
