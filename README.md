@@ -3,8 +3,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 A passionate Backend Developer & DevOps Engineer from India.
-- 🧑‍💻 I’m currently working at [Idea Usher](https://ideausher.com/) as a LEAD BACKEND DEVELOPER.
-- 📫 My Portfolio Link : [Manjeet Kumar](https://my-portfolio-0hzw.onrender.com/)
+- 🧑‍💻 I’m currently working at [Idea Usher](https://ideausher.com/) as a LEAD DEVELOPER.
+- 📫 My Portfolio Link : [Manjeet Kumar](https://manjeete-portfolio.vercel.app/)
 - 📫 How to reach me **manjeetkr2017@gmail.com**
 
 ## 📊 My Github Stats
